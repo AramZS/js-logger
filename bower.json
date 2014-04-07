@@ -1,0 +1,6 @@
+{
+  "name": "js-logger",
+  "homepage": "https://github.com/WarbyParker/js-logger",
+  "version": "0.9.3",
+  "main": "src/logger.js"
+}

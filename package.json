@@ -1,0 +1,13 @@
+{
+  "name": "js-logger",
+  "version": "0.9.3",
+  "description": "A simple and flexible abstraction over using console.log.",
+  "main": "src/logger.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WarbyParker/js-logger"
+  },
+  "author": "Warby Parker",
+  "license": "MIT",
+  "homepage": "https://github.com/WarbyParker/js-logger"
+}
